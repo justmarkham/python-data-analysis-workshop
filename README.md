@@ -1,6 +1,6 @@
 ## Intro to Python for Data Analysis
 
-[Workshop](https://generalassemb.ly/education/intro-to-python-for-data-analysis/washington-dc/8161) at General Assembly on October 20, 2014.
+[Workshop](https://generalassemb.ly/education/intro-to-python-for-data-analysis/washington-dc/8161) at General Assembly (Washington, DC) on October 20, 2014.
 
 Instructor: [Kevin Markham](http://www.dataschool.io/about/)
 
@@ -37,5 +37,5 @@ Instructor: [Kevin Markham](http://www.dataschool.io/about/)
 8. General Assembly's Data Science Course (5 min.)
     * [Official page](https://generalassemb.ly/education/data-science/washington-dc/)
     * [Current repo](https://github.com/justmarkham/DAT3)
-    * [Project examples](https://github.com/justmarkham/DAT3-students)
+    * [Project examples](https://github.com/justmarkham/DAT-project-examples)
 9. Ask Me Anything (15 min.)
