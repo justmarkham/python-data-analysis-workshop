@@ -23,11 +23,8 @@ Instructor: [Kevin Markham](http://www.dataschool.io/about/)
     * Data from FiveThirtyEight ([GitHub repository](https://github.com/fivethirtyeight/data))
     * Alcohol consumption ([article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/), [modified data](drinks.csv))
 5. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html) for Data Exploration (60 min.)
-    * Open drinks data from URL using [read_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.parsers.read_table.html)
-    * Basic data exploration: examining, summarizing, filtering, sorting, handling missing values
-    * Movies ratings ([user data](u.user), [description](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt))
-    * Open user data from URL
-    * Intermediate data exploration: [split-apply-combine](http://i.imgur.com/yjNkiwL.png), [joins](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining), plotting
+    * Exploring alcohol data: examining, summarizing, filtering, sorting, handling missing values, [split-apply-combine](http://i.imgur.com/yjNkiwL.png) ([code](05-pandas.py))
+    * If time permits, also explore movie ratings data ([description](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt)): [joins](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining), [plotting](http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb)
 6. Brief Tour of Other Modules for Data Science (10 min.)
     * [numpy](http://www.numpy.org/)
     * [scikit-learn](http://scikit-learn.org/stable/)
